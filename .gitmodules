@@ -1,0 +1,4 @@
+[submodule "exelity-odoo/odoosv"]
+	path = exelity-odoo/odoosv
+	url = git@github.com:exelity-odoo/odoosv.git
+	branch = main
